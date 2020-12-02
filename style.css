@@ -1,0 +1,28 @@
+#flexbox {
+	display: flex;
+	flex-direction: column;
+	width: 30%;
+	justify-content: center;
+}
+
+#topbox {
+
+}
+
+#bottombox {
+
+}
+
+#top-circle {
+height: 20px;
+width: 20px;
+color: red;
+}
+
+#middle-circle {
+
+}
+
+#bottom-circle {
+
+}
